@@ -1,0 +1,13 @@
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.csproj.AssemblyReference.cache
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.AssemblyInfoInputs.cache
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.AssemblyInfo.cs
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.csproj.CoreCompileInputs.cache
+/Users/lguillermo/Projects/Archivos/Archivos/bin/Debug/netcoreapp3.1/Archivos.deps.json
+/Users/lguillermo/Projects/Archivos/Archivos/bin/Debug/netcoreapp3.1/Archivos.runtimeconfig.json
+/Users/lguillermo/Projects/Archivos/Archivos/bin/Debug/netcoreapp3.1/Archivos.runtimeconfig.dev.json
+/Users/lguillermo/Projects/Archivos/Archivos/bin/Debug/netcoreapp3.1/Archivos.dll
+/Users/lguillermo/Projects/Archivos/Archivos/bin/Debug/netcoreapp3.1/Archivos.pdb
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.dll
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.pdb
+/Users/lguillermo/Projects/Archivos/Archivos/obj/Debug/netcoreapp3.1/Archivos.genruntimeconfig.cache
